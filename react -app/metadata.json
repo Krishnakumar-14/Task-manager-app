@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Task Management Dashboard",
+  "description": "A scalable web application that includes user authentication and a dashboard with CRUD operations for managing tasks. Built with React, TypeScript, and Tailwind CSS, this project demonstrates modern frontend design, state management, and clean architecture.",
+  "requestFramePermissions": []
+}
